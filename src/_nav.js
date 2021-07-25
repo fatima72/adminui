@@ -36,6 +36,6 @@ const _nav = [
     as: NavLink,
     anchor: 'Error 500',
     to: '/500',
-  },   
+  },
 ]
 export default _nav
